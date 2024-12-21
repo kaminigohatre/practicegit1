@@ -1,3 +1,4 @@
+
 import boto7
 
 client = boto3.client('ec2')
